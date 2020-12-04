@@ -39,7 +39,7 @@ Python scripts (files) have names that end with:
 Which of these words is a reserved word in Python ?
 
 * copy
-* **if**
+* **for**
 * make
 * names
 
